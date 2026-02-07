@@ -1,10 +1,5 @@
 # PayFlow – Backend-Focused Payment Processing Simulation
 
-## Live Demo
-https://payflow-backend-focused-simulation.onrender.com/
-
-## Deployment
-It is deployed on **Render**
 
 ## Overview
 PayFlow is a backend-focused payment processing simulation built to demonstrate how real-world payment systems handle **idempotency**, **retries**, and **payment state transitions**.
